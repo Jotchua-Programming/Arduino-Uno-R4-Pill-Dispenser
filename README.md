@@ -12,3 +12,7 @@ This code makes use of LiquidCrystal I2C libraries for the screen functionality.
 Additional products include a 28BYJ-48 ULN2003 5V Stepper Motor utilising ULN2003 Driver Board to power the motor, as well as a FREENOVE I2C IIC LCD 1602 Module.
 
 ![image](https://github.com/user-attachments/assets/a99b89ac-50dd-4aa8-9aee-aed66149ba7d)
+
+
+https://github.com/user-attachments/assets/09bc19ac-e120-43e8-b441-e2fea57ff9ae
+
